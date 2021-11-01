@@ -1,0 +1,26 @@
+Đóng gói:
+
+Kế thừa: class	 B:	A
+		con	cha
+--> con kế thừa từ cha thì có những data và methods của cha.
+con chỉ được kế thừa những thành phần public và protected của cha .\
+	*protected: thì nó là public đối với lớp con nhưng là private đối với lớp khác
+
+con có thể gắn cho cha nhưng ngược lại(cha gán cho contu) phải ép kiểu tưởng minh 
+gọi phương thức tạo lập của lớp cha bằng từ khóa :base();
+
+Lớp object là cha của tất cả các lớp, mặc định các lớp kế thừa từ lớp cha., không cần khai báo.
+
+Không thể tạo một đối tượng thuộc kiểu abtract
+
+HinhHoc h =new HinhHoc();
+HinhHoc h=new HinhTron(4);		
+
+nếu lớp không không overide thành viên vitural cua lớp cha thì thành viên virtual của lớp cha sẽ được gọi
+
+trong c#(nnlt cấp cao) cung cấp cơ chế dọn rác tự động(những đối tượng không sử dụng sẽ tự động đưuọc bộ dọn rác(garbage collection) xóa khỏi bộ nhớ
+)
+trong c# cung cấp từ khóa static dùng để khai báo các thành viên(data, method) thuộc lớp( chỉ được gọi thông qua tên lớp và kh thuộc thành viên của đối tươngj)
+
+các thành viên trong lớp thì được gọi các thành viên static nhưng ngược lại các thành viên static thì không truy cập đưuọc các thành viên không static(vì nó truy cập qua đối tượng)
+s

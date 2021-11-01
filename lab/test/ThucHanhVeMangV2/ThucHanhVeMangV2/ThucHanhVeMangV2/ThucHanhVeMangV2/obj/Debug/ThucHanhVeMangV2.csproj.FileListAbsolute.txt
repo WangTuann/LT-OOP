@@ -1,0 +1,12 @@
+D:\C#\ThucHanhVeMangV2\ThucHanhVeMangV2\bin\Debug\ThucHanhVeMangV2.exe.config
+D:\C#\ThucHanhVeMangV2\ThucHanhVeMangV2\bin\Debug\ThucHanhVeMangV2.exe
+D:\C#\ThucHanhVeMangV2\ThucHanhVeMangV2\bin\Debug\ThucHanhVeMangV2.pdb
+D:\C#\ThucHanhVeMangV2\ThucHanhVeMangV2\obj\Debug\ThucHanhVeMangV2.csprojResolveAssemblyReference.cache
+D:\C#\ThucHanhVeMangV2\ThucHanhVeMangV2\obj\Debug\ThucHanhVeMangV2.exe
+D:\C#\ThucHanhVeMangV2\ThucHanhVeMangV2\obj\Debug\ThucHanhVeMangV2.pdb
+D:\IT-STUDY\OOP\lab\test\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\bin\Debug\ThucHanhVeMangV2.exe.config
+D:\IT-STUDY\OOP\lab\test\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\obj\Debug\ThucHanhVeMangV2.exe
+D:\IT-STUDY\OOP\lab\test\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\obj\Debug\ThucHanhVeMangV2.pdb
+D:\IT-STUDY\OOP\lab\test\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\bin\Debug\ThucHanhVeMangV2.exe
+D:\IT-STUDY\OOP\lab\test\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\bin\Debug\ThucHanhVeMangV2.pdb
+D:\IT-STUDY\OOP\lab\test\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\ThucHanhVeMangV2\obj\Debug\ThucHanhVeMangV2.csprojResolveAssemblyReference.cache

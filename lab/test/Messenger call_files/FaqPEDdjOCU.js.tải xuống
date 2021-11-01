@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["jRxJN"]); }
+
+__d("useCometPreloaderFallback",["emptyFunction"],function(a,b,c,d,e,f){"use strict";a=function(a,c,d,e){return[a=b("emptyFunction"),a,a,a]};c=a;e.exports=c},null);
+__d("CometLinkTrackingUtils.facebook",["ConstUriUtils","isFacebookURI"],function(a,b,c,d,e,f){"use strict";f.decorateHrefWithTrackingInfo=a;function a(a,c,d){if(a!=null&&a!=="#"&&(d.length||c.length)){var e=b("ConstUriUtils").getUri(a);if(e!=null){if(!b("isFacebookURI")(e))return a;d.length&&(e=e.addQueryParam("__cft__",d));c.length&&e!=null&&(e=e.addQueryParam("__tn__",c.join("")));return e!=null?e.toString():a}}return a}},null);

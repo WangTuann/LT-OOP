@@ -1,0 +1,6 @@
+D:\IT-STUDY\OOP\lab\chuong5\Chuong5\Chuong5\obj\Debug\SumFiveInts.csprojResolveAssemblyReference.cache
+D:\IT-STUDY\OOP\lab\chuong5\Chuong5\Chuong5\bin\Debug\Chuong5.exe.config
+D:\IT-STUDY\OOP\lab\chuong5\Chuong5\Chuong5\bin\Debug\Chuong5.exe
+D:\IT-STUDY\OOP\lab\chuong5\Chuong5\Chuong5\bin\Debug\Chuong5.pdb
+D:\IT-STUDY\OOP\lab\chuong5\Chuong5\Chuong5\obj\Debug\Chuong5.exe
+D:\IT-STUDY\OOP\lab\chuong5\Chuong5\Chuong5\obj\Debug\Chuong5.pdb

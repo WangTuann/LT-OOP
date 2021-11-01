@@ -1,0 +1,9 @@
+D:\IT-STUDY\CTDL-GT1\test\chuong2\Baitap2\bin\Debug\Baitap2.exe.config
+D:\IT-STUDY\CTDL-GT1\test\chuong2\Baitap2\bin\Debug\Baitap2.exe
+D:\IT-STUDY\CTDL-GT1\test\chuong2\Baitap2\bin\Debug\Baitap2.pdb
+D:\IT-STUDY\CTDL-GT1\test\chuong2\Baitap2\obj\Debug\Baitap2.csprojResolveAssemblyReference.cache
+D:\IT-STUDY\CTDL-GT1\test\chuong2\Baitap2\obj\Debug\Baitap2.exe
+D:\IT-STUDY\CTDL-GT1\test\chuong2\Baitap2\obj\Debug\Baitap2.pdb
+D:\IT-STUDY\OOP\lab\chuong2\Baitap2\bin\Debug\Baitap2.exe.config
+D:\IT-STUDY\OOP\lab\chuong2\Baitap2\obj\Debug\Baitap2.exe
+D:\IT-STUDY\OOP\lab\chuong2\Baitap2\obj\Debug\Baitap2.pdb

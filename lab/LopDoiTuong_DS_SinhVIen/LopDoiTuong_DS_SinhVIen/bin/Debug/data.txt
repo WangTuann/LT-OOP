@@ -1,0 +1,8 @@
+101, Nguyen Van A ,9.0,Nam,CTK43
+102, Nguyen Van B ,8.0,Nam,CTK43
+103, Nguyen Van C ,6.0,Nam,CTK43
+104, Nguyen Van D ,6.0,Nu,CTK43
+105, Nguyen Van E ,3.0,Nu,CTK43
+106, Nguyen Van F ,7.0,Nam,CTK43
+107, Nguyen Van G ,5.0,Nam,CTK43
+108, Nguyen Van H ,6.6,Nu,CTK43

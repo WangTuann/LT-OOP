@@ -1,0 +1,6 @@
+D:\IT-STUDY\OOP\lab\LopDoiTuong_DS_SinhVIen\LopDoiTuong_DS_SinhVIen\bin\Debug\LopDoiTuong_DS_SinhVIen.exe.config
+D:\IT-STUDY\OOP\lab\LopDoiTuong_DS_SinhVIen\LopDoiTuong_DS_SinhVIen\obj\Debug\LopDoiTuong_DS_SinhVIen.csprojResolveAssemblyReference.cache
+D:\IT-STUDY\OOP\lab\LopDoiTuong_DS_SinhVIen\LopDoiTuong_DS_SinhVIen\bin\Debug\LopDoiTuong_DS_SinhVIen.exe
+D:\IT-STUDY\OOP\lab\LopDoiTuong_DS_SinhVIen\LopDoiTuong_DS_SinhVIen\bin\Debug\LopDoiTuong_DS_SinhVIen.pdb
+D:\IT-STUDY\OOP\lab\LopDoiTuong_DS_SinhVIen\LopDoiTuong_DS_SinhVIen\obj\Debug\LopDoiTuong_DS_SinhVIen.exe
+D:\IT-STUDY\OOP\lab\LopDoiTuong_DS_SinhVIen\LopDoiTuong_DS_SinhVIen\obj\Debug\LopDoiTuong_DS_SinhVIen.pdb

@@ -1,0 +1,5 @@
+D:\IT-STUDY\OOP\lab\chuong2\Egg\bin\Debug\Egg.exe.config
+D:\IT-STUDY\OOP\lab\chuong2\Egg\bin\Debug\Egg.exe
+D:\IT-STUDY\OOP\lab\chuong2\Egg\bin\Debug\Egg.pdb
+D:\IT-STUDY\OOP\lab\chuong2\Egg\obj\Debug\Egg.exe
+D:\IT-STUDY\OOP\lab\chuong2\Egg\obj\Debug\Egg.pdb

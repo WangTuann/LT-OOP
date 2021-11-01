@@ -1,0 +1,5 @@
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Twitter\bin\Debug\Twitter.exe.config
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Twitter\bin\Debug\Twitter.exe
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Twitter\bin\Debug\Twitter.pdb
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Twitter\obj\Debug\Twitter.exe
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Twitter\obj\Debug\Twitter.pdb

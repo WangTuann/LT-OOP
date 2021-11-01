@@ -1,0 +1,6 @@
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\test\bin\Debug\test.exe.config
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\test\bin\Debug\test.exe
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\test\bin\Debug\test.pdb
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\test\obj\Debug\test.exe
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\test\obj\Debug\test.pdb
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\test\obj\Debug\test.csprojResolveAssemblyReference.cache

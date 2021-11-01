@@ -1,0 +1,6 @@
+D:\IT-STUDY\OOP\lab\chuong2\MonthName\bin\Debug\MonthName.exe.config
+D:\IT-STUDY\OOP\lab\chuong2\MonthName\bin\Debug\MonthName.exe
+D:\IT-STUDY\OOP\lab\chuong2\MonthName\bin\Debug\MonthName.pdb
+D:\IT-STUDY\OOP\lab\chuong2\MonthName\obj\Debug\MonthName.exe
+D:\IT-STUDY\OOP\lab\chuong2\MonthName\obj\Debug\MonthName.pdb
+D:\IT-STUDY\OOP\lab\chuong2\MonthName\obj\Debug\MonthName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Hurricane\bin\Debug\Hurricane.exe.config
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Hurricane\bin\Debug\Hurricane.exe
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Hurricane\bin\Debug\Hurricane.pdb
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Hurricane\obj\Debug\Hurricane.csprojResolveAssemblyReference.cache
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Hurricane\obj\Debug\Hurricane.exe
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Hurricane\obj\Debug\Hurricane.pdb
+D:\IT-STUDY\OOP\lab\Chuong4\Hurricane\bin\Debug\Hurricane.exe.config
+D:\IT-STUDY\OOP\lab\Chuong4\Hurricane\obj\Debug\Hurricane.exe
+D:\IT-STUDY\OOP\lab\Chuong4\Hurricane\obj\Debug\Hurricane.pdb

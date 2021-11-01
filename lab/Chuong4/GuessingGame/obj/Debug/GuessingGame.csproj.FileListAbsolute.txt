@@ -1,0 +1,6 @@
+D:\IT-STUDY\OOP\lab\Chuong4\GuessingGame\bin\Debug\GuessingGame.exe.config
+D:\IT-STUDY\OOP\lab\Chuong4\GuessingGame\bin\Debug\GuessingGame.exe
+D:\IT-STUDY\OOP\lab\Chuong4\GuessingGame\bin\Debug\GuessingGame.pdb
+D:\IT-STUDY\OOP\lab\Chuong4\GuessingGame\obj\Debug\GuessingGame.exe
+D:\IT-STUDY\OOP\lab\Chuong4\GuessingGame\obj\Debug\GuessingGame.pdb
+D:\IT-STUDY\OOP\lab\Chuong4\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache

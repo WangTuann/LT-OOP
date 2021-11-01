@@ -1,0 +1,5 @@
+D:\IT-STUDY\OOP\lab\chuong2\Baitap5\bin\Debug\Baitap5.exe.config
+D:\IT-STUDY\OOP\lab\chuong2\Baitap5\bin\Debug\Baitap5.exe
+D:\IT-STUDY\OOP\lab\chuong2\Baitap5\bin\Debug\Baitap5.pdb
+D:\IT-STUDY\OOP\lab\chuong2\Baitap5\obj\Debug\Baitap5.exe
+D:\IT-STUDY\OOP\lab\chuong2\Baitap5\obj\Debug\Baitap5.pdb

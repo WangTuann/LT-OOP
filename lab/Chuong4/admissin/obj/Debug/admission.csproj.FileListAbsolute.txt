@@ -1,0 +1,6 @@
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\admissin\bin\Debug\admissin.exe.config
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\admissin\bin\Debug\admissin.exe
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\admissin\bin\Debug\admissin.pdb
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\admissin\obj\Debug\admission.csprojResolveAssemblyReference.cache
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\admissin\obj\Debug\admissin.exe
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\admissin\obj\Debug\admissin.pdb

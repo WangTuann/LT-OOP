@@ -1,0 +1,5 @@
+D:\IT-STUDY\OOP\lab\chuong2\PigLatin\bin\Debug\PigLatin.exe.config
+D:\IT-STUDY\OOP\lab\chuong2\PigLatin\bin\Debug\PigLatin.exe
+D:\IT-STUDY\OOP\lab\chuong2\PigLatin\bin\Debug\PigLatin.pdb
+D:\IT-STUDY\OOP\lab\chuong2\PigLatin\obj\Debug\PigLatin.exe
+D:\IT-STUDY\OOP\lab\chuong2\PigLatin\obj\Debug\PigLatin.pdb

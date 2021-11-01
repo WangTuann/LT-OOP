@@ -1,0 +1,6 @@
+D:\IT-STUDY\OOP\lab\chuong2\projectRaise\bin\Debug\projectRaise.exe.config
+D:\IT-STUDY\OOP\lab\chuong2\projectRaise\bin\Debug\projectRaise.exe
+D:\IT-STUDY\OOP\lab\chuong2\projectRaise\bin\Debug\projectRaise.pdb
+D:\IT-STUDY\OOP\lab\chuong2\projectRaise\obj\Debug\projectRaise.csprojResolveAssemblyReference.cache
+D:\IT-STUDY\OOP\lab\chuong2\projectRaise\obj\Debug\projectRaise.exe
+D:\IT-STUDY\OOP\lab\chuong2\projectRaise\obj\Debug\projectRaise.pdb

@@ -1,0 +1,4 @@
+D:\IT-STUDY\OOP\lab\KeThua\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\obj\Debug\netcoreapp3.1\QuanLyHinhHoc_KeThua.csprojAssemblyReference.cache
+D:\IT-STUDY\OOP\lab\KeThua\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\obj\Debug\netcoreapp3.1\QuanLyHinhHoc_KeThua.AssemblyInfoInputs.cache
+D:\IT-STUDY\OOP\lab\KeThua\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\obj\Debug\netcoreapp3.1\QuanLyHinhHoc_KeThua.AssemblyInfo.cs
+D:\IT-STUDY\OOP\lab\KeThua\QuanLyHinhHoc_KeThua\QuanLyHinhHoc_KeThua\obj\Debug\netcoreapp3.1\QuanLyHinhHoc_KeThua.csproj.CoreCompileInputs.cache

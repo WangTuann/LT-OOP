@@ -1,0 +1,6 @@
+SACH,abc,KD,200
+SACH,abcdef,QT,150
+BAO,cand,30
+BAO,vnp,50
+TAPCHI,thoitrang,xyz,45,5
+TAPCHI,thethao,tdtt,50,7

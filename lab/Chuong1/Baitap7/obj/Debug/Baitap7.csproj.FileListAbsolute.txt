@@ -1,0 +1,5 @@
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap7\bin\Debug\Baitap7.exe.config
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap7\bin\Debug\Baitap7.exe
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap7\bin\Debug\Baitap7.pdb
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap7\obj\Debug\Baitap7.exe
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap7\obj\Debug\Baitap7.pdb

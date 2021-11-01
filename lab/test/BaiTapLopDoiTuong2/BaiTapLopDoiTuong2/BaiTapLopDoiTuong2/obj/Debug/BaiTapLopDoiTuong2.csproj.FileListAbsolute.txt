@@ -1,0 +1,9 @@
+D:\C#\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\bin\Debug\BaiTapLopDoiTuong2.exe.config
+D:\C#\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\bin\Debug\BaiTapLopDoiTuong2.exe
+D:\C#\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\bin\Debug\BaiTapLopDoiTuong2.pdb
+D:\C#\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\obj\Debug\BaiTapLopDoiTuong2.csprojResolveAssemblyReference.cache
+D:\C#\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\obj\Debug\BaiTapLopDoiTuong2.exe
+D:\C#\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\obj\Debug\BaiTapLopDoiTuong2.pdb
+D:\IT-STUDY\OOP\lab\test\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\bin\Debug\BaiTapLopDoiTuong2.exe.config
+D:\IT-STUDY\OOP\lab\test\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\obj\Debug\BaiTapLopDoiTuong2.exe
+D:\IT-STUDY\OOP\lab\test\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\BaiTapLopDoiTuong2\obj\Debug\BaiTapLopDoiTuong2.pdb

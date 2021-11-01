@@ -1,0 +1,6 @@
+D:\IT-STUDY\OOP\lab\chuong2\Baitap4\bin\Debug\Baitap4.exe.config
+D:\IT-STUDY\OOP\lab\chuong2\Baitap4\bin\Debug\Baitap4.exe
+D:\IT-STUDY\OOP\lab\chuong2\Baitap4\bin\Debug\Baitap4.pdb
+D:\IT-STUDY\OOP\lab\chuong2\Baitap4\obj\Debug\Baitap4.csprojResolveAssemblyReference.cache
+D:\IT-STUDY\OOP\lab\chuong2\Baitap4\obj\Debug\Baitap4.exe
+D:\IT-STUDY\OOP\lab\chuong2\Baitap4\obj\Debug\Baitap4.pdb

@@ -1,0 +1,6 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["tiKlu"]); }
+
+__d("isLinkshimURI",["isFacebookURI","isMessengerDotComURI"],function(a,b,c,d,e,f){"use strict";e.exports=a;function a(a){var c=a.getPath();return(c==="/l.php"||c.indexOf("/si/ajax/l/")===0||c.indexOf("/l/")===0||c.indexOf("l/")===0)&&(b("isFacebookURI")(a)||b("isMessengerDotComURI")(a))?!0:!1}},null);
+__d("isClickIDBlacklistSVDomainURI",["ClickIDDomainBlacklistSVConfig"],function(a,b,c,d,e,f){"use strict";var g=["http","https"];function a(a){return!g.includes(a.getProtocol())?!1:b("ClickIDDomainBlacklistSVConfig").domains.some(function(b){if(a.isSubdomainOfDomain(b))return!0;if(!b.includes(".")){var c=a.getDomain().split(".");return c.includes(b)}return!1})}e.exports=a},null);
+__d("isFacebookSVDomainURI",["FBDomainsSVConfig"],function(a,b,c,d,e,f){"use strict";var g=["http","https"];function a(a){if(g.indexOf(a.getProtocol())===-1)return!1;a=b("FBDomainsSVConfig").domains.get(a.getDomain());return a!=null}e.exports=a},null);
+__d("isFbDotComURI",[],function(a,b,c,d,e,f){e.exports=a;var g=new RegExp("(^|\\.)fb\\.com?$","i"),h=["http","https"];function a(a){if(a.isEmpty()&&a.toString()!=="#")return!1;return!a.getDomain()&&!a.getProtocol()?!1:h.indexOf(a.getProtocol())!==-1&&g.test(a.getDomain())}},null);

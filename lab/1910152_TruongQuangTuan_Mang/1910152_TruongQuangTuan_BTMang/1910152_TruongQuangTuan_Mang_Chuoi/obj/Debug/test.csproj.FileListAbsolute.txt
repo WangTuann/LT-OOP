@@ -1,0 +1,9 @@
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\test\bin\Debug\test.exe.config
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\test\bin\Debug\test.exe
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\test\bin\Debug\test.pdb
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\test\obj\Debug\test.exe
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\test\obj\Debug\test.pdb
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\1910152_TruongQuangTuan_Mang_Chuoi\bin\Debug\test.exe.config
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\1910152_TruongQuangTuan_Mang_Chuoi\obj\Debug\test.exe
+D:\IT-STUDY\OOP\lab\1910152_TruongQuangTuan_Mang\1910152_TruongQuangTuan_BTMang\1910152_TruongQuangTuan_Mang_Chuoi\obj\Debug\test.pdb

@@ -1,0 +1,5 @@
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\1\bin\Debug\1.exe.config
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\1\bin\Debug\1.exe
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\1\bin\Debug\1.pdb
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\1\obj\Debug\1.exe
+D:\IT-STUDY\OOP\lab\Mang_SO_Nguyen\1\obj\Debug\1.pdb

@@ -1,0 +1,5 @@
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Chuong 4\bin\Debug\Chuong 4.exe.config
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Chuong 4\bin\Debug\Chuong 4.exe
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Chuong 4\bin\Debug\Chuong 4.pdb
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Chuong 4\obj\Debug\Chuong 4.exe
+D:\IT-STUDY\CTDL-GT1\test\Baitap1\Chuong 4\obj\Debug\Chuong 4.pdb

@@ -1,0 +1,11 @@
+1914775,Dinh Trong Dat		,9.5	,CTK43	,NAM
+1911147,Dao Xuat Hai		,7.2	,CTK43	,NAM
+1914555,Le Do Truc Linh		,5.0	,LHK43	,NU
+1815624,Nguyen Thi Thanh Lich	,8.0	,LHK43	,NU
+1914856,Nguyen Viet Duy Danh	,8.6	,CTK43	,NAM
+1111111,Mai Ngoc Tri		,2.5	,CTK43	,NAM
+1222222,Vu Thanh Dai		,1.5	,LHK43	,NAM
+1234567,Tran Minh Canh		,6.6	,CTK43	,NAM
+1356242,Ta Tran Trung Nam	,9.5	,CTK43	,NAM
+1234567,Truong Quang Tuan	,9.5	,QTK43	,NAM
+3256412,Mai Thi QUynh Nhu	,9.5	,LHK43	,NU

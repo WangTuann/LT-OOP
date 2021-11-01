@@ -1,0 +1,11 @@
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap8\bin\Debug\Baitap8.exe.config
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap8\bin\Debug\Baitap8.exe
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap8\bin\Debug\Baitap8.pdb
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap8\obj\Debug\Baitap8.exe
+D:\IT-STUDY\CTDL-GT1\test\Chuong1\Baitap8\obj\Debug\Baitap8.pdb
+D:\IT-STUDY\OOP\lab\Chuong1\Baitap8\bin\Debug\Baitap8.exe.config
+D:\IT-STUDY\OOP\lab\Chuong1\Baitap8\obj\Debug\Baitap8.exe
+D:\IT-STUDY\OOP\lab\Chuong1\Baitap8\obj\Debug\Baitap8.pdb
+D:\IT-STUDY\OOP\lab\Chuong1\Baitap8\bin\Debug\Baitap8.exe
+D:\IT-STUDY\OOP\lab\Chuong1\Baitap8\bin\Debug\Baitap8.pdb
+D:\IT-STUDY\OOP\lab\Chuong1\Baitap8\obj\Debug\Baitap8.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\IT-STUDY\OOP\lab\chuong2\Baitap6\bin\Debug\Baitap6.exe.config
+D:\IT-STUDY\OOP\lab\chuong2\Baitap6\bin\Debug\Baitap6.exe
+D:\IT-STUDY\OOP\lab\chuong2\Baitap6\bin\Debug\Baitap6.pdb
+D:\IT-STUDY\OOP\lab\chuong2\Baitap6\obj\Debug\Baitap6.exe
+D:\IT-STUDY\OOP\lab\chuong2\Baitap6\obj\Debug\Baitap6.pdb
